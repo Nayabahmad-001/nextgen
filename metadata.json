@@ -1,0 +1,6 @@
+{
+  "name": "NextGen Hiring AI",
+  "description": "AI-Powered Resume Screening, Mock Interview Assessments, Live Coding Test Runner, Skill Gap Analysis, Candidate Ranking, and Personalized Career Roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
